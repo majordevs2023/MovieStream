@@ -41,6 +41,7 @@ subprojects {
         setRepo(System.getenv("GITHUB_REPOSITORY") ?: "user/repo")
     }
 
+
     android {
         compileSdkVersion(30)
 
