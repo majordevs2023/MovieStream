@@ -4,10 +4,12 @@ rootProject.name = "CloudstreamPlugins"
 // to the includes below.
 
 // Plugins are included like this
-val disabled = listOf<String>(
-    "KisskhProvider", "Topdocumentaryfilms", "Tvtwofourseven",
-)
+//val disabled = listOf<String>(
+//    "KisskhProvider", "Topdocumentaryfilms", "Tvtwofourseven",
+//)
 
+val disabled = listOf<String>(
+)
 File(rootDir, ".").eachDir { dir ->
     if (!disabled.contains(dir.name) && File(dir, "build.gradle.kts").exists()) {
         include(dir.name)
