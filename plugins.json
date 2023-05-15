@@ -1,0 +1,256 @@
+[
+    {
+        "iconUrl": "https://cdn.jsdelivr.net/npm/@googledrive/index@2.0.20/images/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/majordevs2023/MovieStream",
+        "fileSize": 24777,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Horis"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 7,
+        "internalName": "BollywoodProvider",
+        "url": "https://raw.githubusercontent.com/majordevs2023/MovieStream/builds/BollywoodProvider.cs3",
+        "name": "BollywoodProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ww1.cinevez.mx&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/majordevs2023/MovieStream",
+        "fileSize": 11305,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "darkdemon"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "CinevezProvider",
+        "description": "This website support English/Hindi/Kannada/Malayalam/Tamil/Telugu",
+        "url": "https://raw.githubusercontent.com/majordevs2023/MovieStream/builds/CinevezProvider.cs3",
+        "name": "CinevezProvider"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://desicinemas.tv&size=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/majordevs2023/MovieStream",
+        "fileSize": 21697,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Horis"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "DesicinemasProvider",
+        "url": "https://raw.githubusercontent.com/majordevs2023/MovieStream/builds/DesicinemasProvider.cs3",
+        "name": "DesicinemasProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/majordevs2023/MovieStream",
+        "fileSize": 8362,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "HDMProvider",
+        "url": "https://raw.githubusercontent.com/majordevs2023/MovieStream/builds/HDMProvider.cs3",
+        "name": "HDMProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kissasian.pe&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/majordevs2023/MovieStream",
+        "fileSize": 13078,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "Kissasian",
+        "url": "https://raw.githubusercontent.com/majordevs2023/MovieStream/builds/Kissasian.cs3",
+        "name": "Kissasian"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ww1.new-movies123.co&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/majordevs2023/MovieStream",
+        "fileSize": 18170,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Horis"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "Movie123Provider",
+        "url": "https://raw.githubusercontent.com/majordevs2023/MovieStream/builds/Movie123Provider.cs3",
+        "name": "Movie123Provider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.2embed.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/majordevs2023/MovieStream",
+        "fileSize": 61465,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 13,
+        "internalName": "SflixProvider",
+        "description": "Due to the video host changing encryption methods extremely often these extensions might not work perfectly. Also includes Dopebox, Solarmovie, Zoro, HDToday and 2embed",
+        "url": "https://raw.githubusercontent.com/majordevs2023/MovieStream/builds/SflixProvider.cs3",
+        "name": "SflixProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/SoraStream/Icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/majordevs2023/MovieStream",
+        "fileSize": 242717,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated",
+            "Sora"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 106,
+        "internalName": "SoraStream",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://raw.githubusercontent.com/majordevs2023/MovieStream/builds/SoraStream.cs3",
+        "name": "SoraStream"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/master/SuperStream/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/majordevs2023/MovieStream",
+        "fileSize": 55587,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Blatzar"
+        ],
+        "tvTypes": [
+            "Anime",
+            "Movie",
+            "AnimeMovie",
+            "TvSeries"
+        ],
+        "version": 8,
+        "internalName": "SuperStream",
+        "url": "https://raw.githubusercontent.com/majordevs2023/MovieStream/builds/SuperStream.cs3",
+        "name": "SuperStream"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=time4tv.stream&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/majordevs2023/MovieStream",
+        "fileSize": 21741,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 14,
+        "internalName": "TimefourTv",
+        "description": "Sport Live Stream",
+        "url": "https://raw.githubusercontent.com/majordevs2023/MovieStream/builds/TimefourTv.cs3",
+        "name": "TimefourTv"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=topdocumentaryfilms.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/majordevs2023/MovieStream",
+        "fileSize": 10202,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "Documentary"
+        ],
+        "version": 1,
+        "internalName": "Topdocumentaryfilms",
+        "url": "https://raw.githubusercontent.com/majordevs2023/MovieStream/builds/Topdocumentaryfilms.cs3",
+        "name": "Topdocumentaryfilms"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=turkish123.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/majordevs2023/MovieStream",
+        "fileSize": 13202,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Turkish",
+        "url": "https://raw.githubusercontent.com/majordevs2023/MovieStream/builds/Turkish.cs3",
+        "name": "Turkish"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/majordevs2023/MovieStream",
+        "fileSize": 63497,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "Movie",
+            "AnimeMovie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "VidstreamBundle",
+        "description": "Includes many providers with the same layout as Vidstream",
+        "url": "https://raw.githubusercontent.com/majordevs2023/MovieStream/builds/VidstreamBundle.cs3",
+        "name": "VidstreamBundle"
+    }
+]
