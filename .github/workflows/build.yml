@@ -49,7 +49,7 @@ jobs:
 
       - name: Push builds
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN: ${{secrets.PAT_TOKEN}}
         run: |
           cd $GITHUB_WORKSPACE/builds
           git config --local user.email "actions@github.com"
@@ -57,3 +57,4 @@ jobs:
           git add .
           git commit --amend -m "Build $GITHUB_SHA" || exit 0   # do not error if nothing to commit
           git push --force
+          
