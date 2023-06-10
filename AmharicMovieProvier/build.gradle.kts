@@ -3,7 +3,7 @@ version = 4
 
 
 cloudstream {
-    language = "en"
+    language = "am"
     // All of these properties are optional, you can safely remove them
 
 //    description = "Uses TMDB"
