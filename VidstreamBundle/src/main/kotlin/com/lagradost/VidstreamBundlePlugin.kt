@@ -8,19 +8,22 @@ import android.content.Context
 class VidstreamBundlePlugin : Plugin() {
     override fun load(context: Context) {
         // All providers should be added in this manner. Please don't edit the providers list directly.
-        registerExtractorAPI(MultiQuality())
-        registerExtractorAPI(XStreamCdn())
-        registerExtractorAPI(LayarKaca())
-        registerExtractorAPI(DBfilm())
-        registerExtractorAPI(Luxubu())
-        registerExtractorAPI(FEmbed())
-        registerExtractorAPI(Fplayer())
-        registerExtractorAPI(FeHD())
-        registerMainAPI(VidEmbedProvider())
-        registerMainAPI(OpenVidsProvider())
-        registerMainAPI(KdramaHoodProvider())
-        registerMainAPI(DramaSeeProvider())
+//        registerExtractorAPI(MultiQuality())
+//        registerExtractorAPI(XStreamCdn())
+//        registerExtractorAPI(LayarKaca())
+//        registerExtractorAPI(DBfilm())
+//        registerExtractorAPI(Luxubu())
+//        registerExtractorAPI(FEmbed())
+//        registerExtractorAPI(Fplayer())
+//        registerExtractorAPI(FeHD())
+//        registerMainAPI(VidEmbedProvider())
+//        registerMainAPI(OpenVidsProvider())
+//        registerMainAPI(KdramaHoodProvider())
+//        registerMainAPI(DramaSeeProvider())
+//        registerMainAPI(AsianLoadProvider())
+//        registerMainAPI(WatchAsianProvider())
+
         registerMainAPI(AsianLoadProvider())
-        registerMainAPI(WatchAsianProvider())
+
     }
 }
