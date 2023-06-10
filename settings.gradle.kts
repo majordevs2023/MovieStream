@@ -25,4 +25,4 @@ rootProject.name = "CloudstreamPlugins"
 // include("PluginName")
 include(":Topdocumentaryfilms")
 include(":SuperStream")
-//include(":AsianLoadProvider")
+include(":VidstreamBundle")
