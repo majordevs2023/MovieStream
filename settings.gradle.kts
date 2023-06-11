@@ -27,7 +27,6 @@ rootProject.name = "CloudstreamPlugins"
 //working dircotry
 include(":SuperStream")
 include(":VidstreamBundle")
-include(":AsianLoad")
 include(":Kissasian")
 include(":HDMProvider")
 include(":SflixProvider")
