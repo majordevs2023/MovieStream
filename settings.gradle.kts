@@ -25,20 +25,34 @@ rootProject.name = "CloudstreamPlugins"
 // include("PluginName")
 
 //working dircotry
-//include(":Topdocumentaryfilms")
-//include(":SuperStream")
-//include(":VidstreamBundle")
-include(":Pornhub")
+include(":SuperStream")
+include(":VidstreamBundle")
+include(":AsianLoad")
+include(":Kissasian")
+include(":HDMProvider")
+include(":SflixProvider")
+include(":BollywoodProvider")
+include(":DesicinemasProvider")
+include(":Movie123Provider")
+include(":CinevezProvider")
+include(":SoraStream")
+include(":Turkish")
+include(":TimefourTv")
+include(":Topdocumentaryfilms")
 
 /***
  * working package
  * 1. 2embed
- * 2. AsianLoad
+ * 2. AsianLoad,Kissasian(defualt for ausian )
  * 3. HDTODAY
  * 4. sflix.to
  * 5. solarmovies
  * 6. BollywoodProvider,DesicinemasProvider(prefered)
  * 7. Movie123Provider(load mroe not supported)
  * 8. CinevezProvider(indian),
+ * 9. SoraStream(best should be defualt),(the folder ontain both the lit and the main)
+ * 10.Turkish("my contain two inside")
+ * 11 . TimefourTv("main sport channel)
+ * 13. Topdocumentaryfilms("main documentry")
  *
  */
