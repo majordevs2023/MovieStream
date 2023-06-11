@@ -8,17 +8,17 @@ rootProject.name = "CloudstreamPlugins"
 //   "KisskhProvider", "Topdocumentaryfilms", "Tvtwofourseven",
 //)
 
-val disabled = listOf<String>(
-)
-File(rootDir, ".").eachDir { dir ->
-    if (!disabled.contains(dir.name) && File(dir, "build.gradle.kts").exists()) {
-        include(dir.name)
-    }
-}
-
-fun File.eachDir(block: (File) -> Unit) {
-    listFiles()?.filter { it.isDirectory }?.forEach { block(it) }
-}
+//val disabled = listOf<String>(
+//)
+//File(rootDir, ".").eachDir { dir ->
+//    if (!disabled.contains(dir.name) && File(dir, "build.gradle.kts").exists()) {
+//        include(dir.name)
+//    }
+//}
+//
+//fun File.eachDir(block: (File) -> Unit) {
+//    listFiles()?.filter { it.isDirectory }?.forEach { block(it) }
+//}
 
 
 // To only include a single project, comment out the previous lines (except the first one), and include your plugin like so:
@@ -28,3 +28,17 @@ fun File.eachDir(block: (File) -> Unit) {
 //include(":Topdocumentaryfilms")
 //include(":SuperStream")
 //include(":VidstreamBundle")
+include(":Pornhub")
+
+/***
+ * working package
+ * 1. 2embed
+ * 2. AsianLoad
+ * 3. HDTODAY
+ * 4. sflix.to
+ * 5. solarmovies
+ * 6. BollywoodProvider,DesicinemasProvider(prefered)
+ * 7. Movie123Provider(load mroe not supported)
+ * 8. CinevezProvider(indian),
+ *
+ */
