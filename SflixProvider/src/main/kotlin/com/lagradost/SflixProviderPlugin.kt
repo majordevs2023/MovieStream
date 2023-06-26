@@ -13,6 +13,6 @@ class SflixProviderPlugin : Plugin() {
         registerMainAPI(TwoEmbedProvider())
         registerMainAPI(DopeboxProvider())
         registerMainAPI(ZoroProvider())
-        registerMainAPI(HDTodayProvider())
+//        registerMainAPI(HDTodayProvider())
     }
 }
